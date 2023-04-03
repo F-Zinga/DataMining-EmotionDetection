@@ -1,4 +1,4 @@
-﻿text;label
+﻿Text;label
 "To me this is intersection.";
 "See the below example  Employee1 Employee2 Employee3  Dept1.employess=Employee1 Dept1.employess=Employee3  Dept2.employess=Employee2  Intersection   Employee1 x Dept1.employess=Employee1 Employee3 x Dept1.employess=Employee3 Employee2 x Dept2.employess=Employee2  I don't like this sintax since it changes an obvious behaviour, IMO.";
 "I would prefer to write it as  SELECT intersect(employee,this.employees).manager.lastname FROM org.apache.jdo.tck.pc.company.Department VARIABLES Employee employee   Now it's up to up to clearify ";

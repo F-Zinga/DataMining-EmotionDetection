@@ -1,4 +1,4 @@
-﻿text;label
+﻿Text;label
 "guys... this is so stupid...";ANGER
 "I lost the whole morning cause HBase's RegionServer was dying with no logs, no nothing... how Am I supposed to debug the issue if u do not even generate a core dump?";ANGER
 "{quote}You are messing down deep below hbase in dfs.";ANGER
